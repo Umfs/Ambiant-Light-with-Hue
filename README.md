@@ -16,3 +16,5 @@ Procedures to get this software running:
 5.Run the processing code, and a small windows will show up indicating the average color of your screen.
 
 6.It should work regardless of your monitor resolotion.
+
+For those who want to see the result before you start, check out the video below: http://goo.gl/uvrJwq
